@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 24.75,
+    "lat": 59.44
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 3.77,
+    "pressure": 981,
+    "humidity": 86,
+    "temp_min": 3.33,
+    "temp_max": 4.44
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 8.7,
+    "deg": 260
+  },
+  "clouds": {
+    "all": 90
+  },
+  "dt": 1575753337,
+  "sys": {
+    "type": 1,
+    "id": 1330,
+    "country": "EE",
+    "sunrise": 1575702096,
+    "sunset": 1575724996
+  },
+  "timezone": 7200,
+  "id": 588409,
+  "name": "Tallinn",
+  "cod": 200
+}
